@@ -16,7 +16,6 @@ function App() {
   return (
     <>
       <Sidebar />
-      {/* <Header /> */}
       <Routes>
         {/* {employeeToken && <Route path='/' element={<Home />} />} */}
         <Route path='/' element={<Home />} />
